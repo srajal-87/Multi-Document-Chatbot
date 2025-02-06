@@ -7,7 +7,6 @@ Smart PDF Chat is an intelligent Streamlit application that allows users to uplo
 - 🔤 Multi-PDF document processing
 - 💬 Context-aware question answering
 - 🔍 Advanced text extraction and chunking
-- 📊 Detailed document statistics
 
 ## Prerequisites
 - Python 3.8+
