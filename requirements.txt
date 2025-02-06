@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain-community
+langchain-groq
+sentence-transformers
+torch
+langchain-huggingface
