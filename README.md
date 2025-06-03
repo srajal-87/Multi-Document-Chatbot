@@ -1,4 +1,4 @@
-# 📚 Smart PDF Chat: Multi-Document Chatbot
+# 📚 Smart PDF Chat: Multi-PDF Chatbot
 
 ## 📌 Overview
 
